@@ -1,0 +1,4 @@
+name basic
+length 5400
+waterTemperature 60
+energyConsuption 1.5

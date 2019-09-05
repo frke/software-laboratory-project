@@ -1,0 +1,4 @@
+name fast
+length 1800
+waterTemperature 40
+energyConsuption 0.7

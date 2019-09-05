@@ -1,0 +1,4 @@
+name economical
+length 3600
+waterTemperature 40
+energyConsuption 0.9

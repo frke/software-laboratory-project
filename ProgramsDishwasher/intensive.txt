@@ -1,0 +1,4 @@
+name intensive
+length 7200
+waterTemperature 70
+energyConsuption 3
